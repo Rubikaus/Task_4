@@ -4,7 +4,7 @@ import add
 import json
 import requests
 
-api_key = 'bc727dc3777a57c2c2d9b43226afb051b2b4870607293d30eb578e18341ff7a0f682a1852e22c816bb05a'
+api_key = ''
 
 
 def get_button(label, color, payload=""):
